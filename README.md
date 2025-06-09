@@ -1,5 +1,5 @@
 # Project-1
-# Rock Paper Scissors – Numerical Results Game
+# Rock Paper Scissors
 
 This project is a Rock-Paper-Scissors game built with Python and Pygame. It includes sound effects, images, and graphical output using Matplotlib to display numerical results of the game.
 
